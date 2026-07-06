@@ -1,0 +1,11 @@
+# Data / model archive — distributed separately as archive.zip (see README)
+archive/
+archive.zip
+*.zip
+
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
