@@ -118,3 +118,20 @@ Açılan `archive/` klasörü toplam ~8.5 GB'dir (çoğunluğu MIMIC-CXR görün
 - `archive/`, `archive.zip` ve eğitim çıktıları (`.pth`) `.gitignore` ile hariç tutulmuştur.
 - `proposed_method.py` eğitim tamamlandığında en iyi kontrol noktasını
   `proposed_method.pth` olarak proje köküne kaydeder.
+  ---
+
+## Atıf / Citation
+
+Bu çalışmayı araştırmalarınızda kullanırsanız lütfen aşağıdaki makaleye atıfta bulununuz:
+
+```bibtex
+@inproceedings{koyuncu2026multimodal,
+  author={Koyuncu, Z. M. and Aras, S.},
+  booktitle={2026 10th International Artificial Intelligence and Data Processing Symposium (IDAP)}, 
+  title={Multimodal Fusion of Radiological Images and Clinical Reports for Multi-Label Chest Disease Detection under Class Imbalance}, 
+  year={2026},
+  pages={1-6},
+  doi={10.1109/IDAP71869.2026.11728081}
+}
+```
+* [IEEE Xplore Makale Bağlantısı](https://ieeexplore.ieee.org/document/11728081)
